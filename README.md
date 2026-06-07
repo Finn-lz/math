@@ -1,4 +1,4 @@
 Some mathematics notes.
 
-Donald_Cohn_Notes (Mar 1, 2025): Notes for personal use on the book Measure Theory, 2nd edition by Donald Cohn. 
-Currently covering the introduction chapter until the end of the second chapter, and solutions to some exercises. 
+Donald_Cohn_Notes (Jun 7, 2026): Notes for personal use on the book Measure Theory, 2nd edition by Donald Cohn. 
+Currently covering the introduction chapter until the end of chapter 6, and 10.1-10.4. 
